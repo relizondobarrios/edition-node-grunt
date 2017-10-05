@@ -1,4 +1,4 @@
-# Pattern Lab Node - Grunt Edition
+# Pattern Lab Node - Grunt Edition SmarterCommerce Version
 
 The Grunt wrapper around [Pattern Lab Node Core](https://github.com/pattern-lab/patternlab-node), providing tasks to interact with the core library and move supporting frontend assets.
 
